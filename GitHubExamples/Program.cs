@@ -1,8 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, C#  Academy second time time modified from master repo");
-Console.WriteLine("Hello, C#  Academy second time time modified from master repo");
-Console.WriteLine("Hello, C#  Academy second time time modified from master repo");
-Console.WriteLine("Hello, C#  Academy second time time modified from master repo");
-Console.WriteLine("Hello, C#  Academy second time time modified from master repo");
-Console.WriteLine("Hello, C#  Academy second time time modified from master repo");
-Console.WriteLine("Hello, C#  Academy second time time modified from master repo");
+void myfirstmethod()
+{
+    //do something
+}
+void mysecondmethod()
+{
+    //do something
+}
+void mythirdmethod()
+{
+    //do something
+}
